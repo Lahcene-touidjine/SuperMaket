@@ -58,7 +58,7 @@ namespace SuperMaket
                         }
                         else
                         {
-                            MessageBox.Show("rak tnik brek f les cordonnes");
+                            MessageBox.Show("username or password incorrect ");
                         }
                     }
                     else if (Role.SelectedItem.ToString() == "User")
